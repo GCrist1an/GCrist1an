@@ -88,7 +88,7 @@ Colaboración técnica verificable en un proyecto externo. El repositorio **no p
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GCrist1an&theme=github-dark-blue&hide_border=true&locale=es)](https://git.io/streak-stats)
+<img src="./profile/streak.svg" alt="Actividad de GitHub" />
 
 </div>
 
