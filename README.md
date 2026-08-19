@@ -1,57 +1,57 @@
 # Cristian David Gutiérrez
 
-Operations, software and automation focused on practical systems for real workflows.
+Ingeniería de software, automatización y sistemas operativos aplicados a procesos reales.
 
-I work at the intersection of **operational management** and **technology**, turning process needs into software, automation and clearer ways of working.
+Trabajo en la intersección entre **operaciones** y **tecnología**, convirtiendo necesidades de proceso en software, automatización y formas de trabajo más trazables y mantenibles.
 
-## Current focus
+## Enfoque actual
 
-- Software development for operational and administrative processes
-- Business process automation
-- Quality, reliability and maintainable delivery
-- Internal tools and workflow-oriented applications
-- Building **Gutierrez Systems** as a separate corporate technology environment
+- Desarrollo de software para procesos operativos y administrativos.
+- Automatización de procesos y tareas repetitivas.
+- Calidad, confiabilidad y entrega mantenible.
+- Herramientas internas orientadas a flujos de trabajo.
+- Desarrollo de **Gutierrez Systems** como entorno tecnológico corporativo separado de mi identidad personal.
 
-## Selected work
+## Trabajo seleccionado
 
-### EMINSER Cierre de Nómina
-Private operational application for monthly attendance and payroll-review workflows.
+### EMINSER — Cierre de Nómina
+Aplicación operativa privada para apoyar flujos mensuales de asistencia, novedades y revisión de nómina.
 
 **Stack:** Next.js · TypeScript · React · Supabase
 
-### Hora Check
-Private application for schedule lookup and authenticated administrative workflows.
+### GS ContractOps
+Producto de Gutierrez Systems actualmente en descubrimiento y diseño. Busca estructurar la planeación, ejecución, trazabilidad y supervisión de contratos con operación en campo.
 
-**Stack:** Vite · TypeScript · React · Supabase · Vitest
+La arquitectura y el MVP continúan sujetos a validación antes del desarrollo con datos reales.
 
-### Aquality — Technical Collaboration
-External project where my GitHub activity documents technical contributions. The repository is owned independently from Gutierrez Systems.
+### Aquality — colaboración técnica externa
+Proyecto externo en el que mi actividad de GitHub documenta contribuciones técnicas. El repositorio no pertenece a Gutierrez Systems.
 
-[View Aquality on GitHub](https://github.com/Parra9510/aquality)
+[Ver Aquality en GitHub](https://github.com/Parra9510/aquality)
 
-## Technology
+## Tecnología
 
 `TypeScript` · `React` · `Next.js` · `Vite` · `Supabase` · `Python` · `FastAPI` · `GitHub Actions`
 
-## Engineering principles
+## Principios de ingeniería
 
-- Evidence before claims
-- Security by default
-- Traceable delivery through branches, pull requests and checks
-- Software tied to a concrete operational problem
-- Documentation that allows another person to understand and maintain the system
+- Evidencia antes que afirmaciones.
+- Seguridad por defecto.
+- Entrega trazable mediante ramas, Pull Requests y validaciones.
+- Software vinculado a un problema operativo concreto.
+- Documentación que permita a otra persona comprender y mantener el sistema.
 
 ## Gutierrez Systems
 
-I am developing **Gutierrez Systems** as the corporate environment for software, automation, QA and operational systems, deliberately separated from this personal profile.
+Desarrollo **Gutierrez Systems** como entorno corporativo para software, automatización, calidad y sistemas operativos, deliberadamente separado de este perfil personal.
 
-[Gutierrez Systems on GitHub](https://github.com/Gutierrez-Systems)
+[Gutierrez Systems en GitHub](https://github.com/Gutierrez-Systems)
 
-## Contact
+## Contacto
 
 - GitHub: [@GCrist1an](https://github.com/GCrist1an)
-- Email: cdgutierrez00@gmail.com
+- Correo: cdgutierrez00@gmail.com
 
 ---
 
-<sub>This profile only presents projects, links and claims that can be supported by repository, deployment or documented evidence.</sub>
+<sub>Este perfil presenta únicamente proyectos, enlaces y afirmaciones respaldados por repositorios o documentación verificable.</sub>
