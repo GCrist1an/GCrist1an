@@ -124,7 +124,7 @@ Desarrollo **Gutierrez Systems** como entorno corporativo para productos, ingeni
 
 - **GitHub:** [@GCrist1an](https://github.com/GCrist1an)
 - **Correo:** [cdgutierrez00@gmail.com](mailto:cdgutierrez00@gmail.com)
-- **Web personal:** [Cristian Gtuierrez](https://cristian-gutierrez-web.vercel.app/)
+- **Web personal:** [Cristian Gutierrez](https://cristian-gutierrez-web.vercel.app/)
 ---
 
 <sub>Este perfil presenta únicamente proyectos, enlaces y afirmaciones respaldados por repositorios o documentación verificable.</sub>
