@@ -6,7 +6,9 @@
 
 Construyo sistemas que convierten procesos operativos reales en flujos digitales más trazables, verificables y mantenibles.
 
-[Web personal](https:https://cristian-gutierrez-web.vercel.app/)
+Construyo sistemas que convierten procesos operativos reales en flujos digitales más trazables, verificables y mantenibles.
+
+[Web personal](https://cristian-gutierrez-web.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-cdgutierrez00%40gmail.com-30363d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdgutierrez00@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%40GCrist1an-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GCrist1an)
 
