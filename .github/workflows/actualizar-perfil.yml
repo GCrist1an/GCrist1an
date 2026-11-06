@@ -1,0 +1,60 @@
+name: Actualizar perfil
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "perfil.json"
+      - "scripts/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validar perfil.json
+        run: node -e "JSON.parse(require('fs').readFileSync('perfil.json','utf8')); console.log('perfil.json válido')"
+
+      - name: Generar README
+        run: node scripts/generar-readme.mjs
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: regenerar README desde perfil.json"
+          git push
+
+      - name: Redesplegar portafolio y Gutierrez Systems
+        env:
+          HOOK_PORTAFOLIO: ${{ secrets.VERCEL_HOOK_PORTAFOLIO }}
+          HOOK_EMPRESA: ${{ secrets.VERCEL_HOOK_EMPRESA }}
+        run: |
+          set -euo pipefail
+          desplegar() {
+            local nombre="$1" hook="$2"
+            if [ -z "$hook" ]; then
+              echo "Sin hook de $nombre (se configura después)"
+              return 0
+            fi
+            if curl -fsS --show-error -X POST "$hook"; then
+              echo "$nombre: despliegue solicitado"
+            else
+              echo "::error::$nombre: falló el hook de despliegue (curl exit $?)"
+              return 1
+            fi
+          }
+          fallos=0
+          desplegar "portafolio" "${HOOK_PORTAFOLIO:-}" || fallos=1
+          desplegar "empresa" "${HOOK_EMPRESA:-}" || fallos=1
+          exit $fallos

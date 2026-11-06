@@ -1,0 +1,164 @@
+{
+  "version": "1.0.0",
+  "actualizado": "2026-11-07",
+  "persona": {
+    "nombre": "Cristian David Gutiérrez Bejarano",
+    "nombre_corto": "Cristian Gutiérrez",
+    "titular": "QA Junior · Desarrollador de Software · Fundador de Gutierrez Systems",
+    "frase": "QA y desarrollo de software para convertir operaciones reales en soluciones digitales.",
+    "ubicacion": "Dosquebradas, Risaralda, Colombia",
+    "disponibilidad": "Remoto o presencial en Pereira / Dosquebradas",
+    "sobre_mi": "Estudiante de octavo semestre de Ingeniería en Desarrollo de Software (CIAF) con formación en aseguramiento de calidad bajo ISTQB CTFL v4.0. Antes de dedicarme al software coordiné operaciones de servicios para el Municipio de Dosquebradas con equipos de hasta 113 personas, donde automaticé reportes, novedades y control operativo. Hoy combino esa visión operativa con QA y desarrollo para construir soluciones que resuelven problemas reales."
+  },
+  "contacto": {
+    "correo": "cdgutierrez00@gmail.com",
+    "whatsapp": "+573006782181",
+    "linkedin": "https://www.linkedin.com/in/cristian-gutierrez-a303b837b/",
+    "github": "https://github.com/GCrist1an",
+    "portafolio": "https://cristian-gutierrez-web.vercel.app/",
+    "empresa": "https://www.gutierrezsystems.online/"
+  },
+  "habilidades": {
+    "qa": ["Diseño de casos de prueba", "Reporte y seguimiento de defectos", "BDD con Gherkin", "Pruebas de API con Postman / Newman", "Pruebas responsive", "Seguridad básica (XSS, exposición de credenciales)"],
+    "lenguajes": ["JavaScript", "TypeScript", "Python", "SQL"],
+    "desarrollo": ["React", "Next.js", "Node.js", "Angular", "HTML", "CSS"],
+    "bases_de_datos": ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
+    "herramientas": ["Git", "GitHub", "GitHub Actions", "Vercel", "Jira", "Notion", "Scrum"]
+  },
+  "servicios": [
+    { "nombre": "Catálogos web con pedidos por WhatsApp", "descripcion": "Tu catálogo en línea con carrito y pedidos organizados que llegan directo a tu WhatsApp." },
+    { "nombre": "Sistemas de gestión para negocios", "descripcion": "Software a la medida para organizar la operación diaria, por ejemplo de un gimnasio." },
+    { "nombre": "Automatización de procesos operativos", "descripcion": "Novedades, turnos, reportes y control de personal sin hojas de cálculo manuales." },
+    { "nombre": "Pruebas de calidad (QA)", "descripcion": "Revisión de tu software o sitio web antes de salir a producción: casos de prueba, bugs y seguridad básica." },
+    { "nombre": "Análisis de datos", "descripcion": "Datos convertidos en información clara para tomar decisiones." }
+  ],
+  "proyectos": [
+    {
+      "id": "qa-portfolio",
+      "nombre": "QA Portfolio",
+      "tipo": "propio",
+      "estado": "publicado",
+      "mostrar_nombre": true,
+      "descripcion": "Plan de pruebas, 35 casos de prueba, 7 reportes de bugs reales de un e-commerce en producción, escenarios Gherkin y colección Postman con pruebas automatizadas de API.",
+      "stack": ["Postman", "Newman", "Gherkin", "Markdown"],
+      "url": "https://github.com/GCrist1an/qa-portfolio",
+      "canales": ["github", "portafolio", "linkedin"]
+    },
+    {
+      "id": "makeupstore",
+      "nombre": "Makeupstore By Andrea",
+      "tipo": "cliente",
+      "estado": "produccion",
+      "mostrar_nombre": true,
+      "descripcion": "Catálogo interactivo con carrito, notas por producto, cierre de pedido por WhatsApp y panel de administración que publica cambios vía la API de GitHub.",
+      "stack": ["JavaScript", "Vercel", "API de GitHub"],
+      "url": "https://andreamakeupcare.shop",
+      "canales": ["github", "portafolio", "empresa", "linkedin"]
+    },
+    {
+      "id": "zona-fit-core",
+      "nombre": "Zona Fit Core",
+      "tipo": "equipo",
+      "estado": "desarrollo",
+      "mostrar_nombre": true,
+      "descripcion": "Sistema de gestión para la operación de un gimnasio local, desarrollado en equipo con dos ingenieros.",
+      "stack": [],
+      "url": null,
+      "canales": ["portafolio", "empresa", "linkedin"]
+    },
+    {
+      "id": "gs-contractops",
+      "nombre": "GS ContractOps",
+      "tipo": "propio",
+      "estado": "desarrollo",
+      "mostrar_nombre": true,
+      "descripcion": "Plataforma para planear, ejecutar y supervisar contratos con operación en campo.",
+      "stack": [],
+      "url": null,
+      "canales": ["github", "empresa"]
+    },
+    {
+      "id": "nomina-privada",
+      "nombre": "Aplicación de cierre de nómina",
+      "tipo": "privado",
+      "estado": "privado",
+      "mostrar_nombre": false,
+      "descripcion": "Aplicación privada para asistencia, novedades y revisión de nómina en una empresa de servicios.",
+      "stack": ["Next.js", "TypeScript", "React", "Supabase"],
+      "url": null,
+      "canales": ["github", "empresa"]
+    },
+    {
+      "id": "marketplace-local",
+      "nombre": "Marketplace para comercios locales",
+      "tipo": "privado",
+      "estado": "desarrollo",
+      "mostrar_nombre": false,
+      "descripcion": "Plataforma para que tiendas locales vendan en línea.",
+      "stack": [],
+      "url": null,
+      "canales": ["empresa"]
+    },
+    {
+      "id": "limpieza-calzado",
+      "nombre": "Plataforma para negocio de limpieza de calzado",
+      "tipo": "privado",
+      "estado": "desarrollo",
+      "mostrar_nombre": false,
+      "descripcion": "Solución digital para un negocio de servicios de limpieza de calzado.",
+      "stack": [],
+      "url": null,
+      "canales": ["empresa"]
+    },
+    {
+      "id": "aquality",
+      "nombre": "Aquality",
+      "tipo": "colaboracion",
+      "estado": "colaboracion",
+      "mostrar_nombre": true,
+      "descripcion": "Colaboración técnica en un proyecto externo de acuicultura. El repositorio no pertenece a Gutierrez Systems.",
+      "stack": [],
+      "url": "https://github.com/Parra9510/aquality",
+      "canales": ["github", "portafolio"]
+    },
+    {
+      "id": "homicidios-colombia",
+      "nombre": "Análisis de homicidios en Colombia",
+      "tipo": "academico",
+      "estado": "academico",
+      "mostrar_nombre": true,
+      "descripcion": "Análisis de datos con modelos predictivos.",
+      "stack": ["Python"],
+      "url": null,
+      "canales": ["portafolio", "linkedin"]
+    },
+    {
+      "id": "llm-gemini",
+      "nombre": "Ajuste de un modelo de lenguaje con Gemini",
+      "tipo": "academico",
+      "estado": "academico",
+      "mostrar_nombre": true,
+      "descripcion": "Entrenamiento y ajuste de un modelo de lenguaje usando la API de Gemini.",
+      "stack": ["API de Gemini"],
+      "url": null,
+      "canales": ["portafolio", "linkedin"]
+    }
+  ],
+  "experiencia": [
+    { "cargo": "Fundador y Desarrollador", "empresa": "Gutierrez Systems", "inicio": null, "fin": "Actual", "resumen": "Diseño, desarrollo, pruebas y despliegue de soluciones web para clientes." },
+    { "cargo": "Desarrollador / Implementador freelance", "empresa": "MMMY Negocios Digitales", "inicio": "2026-11", "fin": "Actual", "resumen": "Implementación de plataformas CRM: canales, correo, dominios/DNS y automatizaciones." },
+    { "cargo": "Supervisor de Servicios Integrales", "empresa": "UT EMINSER Soloaseo 2025", "inicio": "2026-02", "fin": "2026-09", "resumen": "Coordinación de 113 colaboradores en 73 puntos; automatizaciones para reportes y novedades; apoyo en nómina y facturación." },
+    { "cargo": "Supervisor de Servicios Integrales", "empresa": "UT Ecolimpieza 4G", "inicio": "2025-01", "fin": "2025-12", "resumen": "Control de novedades, coberturas e indicadores; herramientas digitales para reportes." },
+    { "cargo": "Supervisor Operativo de Servicios", "empresa": "UT Serviaseamos", "inicio": "2024-01", "fin": "2024-12", "resumen": "Supervisión de personal, cronogramas e informes para facturación." }
+  ],
+  "formacion": [
+    { "titulo": "Ingeniería en Desarrollo de Software", "institucion": "CIAF", "estado": "En curso (8º semestre)" },
+    { "titulo": "Técnico Profesional en Programación de Software", "institucion": "CIAF", "estado": "2025" },
+    { "titulo": "Tecnólogo en Seguridad y Salud en el Trabajo", "institucion": "SENA", "estado": "2020" },
+    { "titulo": "Curso ISTQB CTFL v4.0: Certificación QA, Diseño y Simulador", "institucion": "EUD Academy (Udemy)", "estado": "2026" }
+  ],
+  "idiomas": [
+    { "idioma": "Español", "nivel": "Nativo" },
+    { "idioma": "Inglés", "nivel": "Básico (A1)" }
+  ]
+}

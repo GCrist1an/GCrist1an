@@ -1,130 +1,71 @@
-<div align="center">
+<!-- ⚠️ Archivo generado automáticamente desde perfil.json. No lo edites a mano: edita perfil.json. -->
 
-# Cristian David Gutiérrez
+# Cristian Gutiérrez
 
-### Software · Automatización · Operaciones
+### QA Junior · Desarrollador de Software · Fundador de Gutierrez Systems
 
-Construyo sistemas que convierten procesos operativos reales en flujos digitales más trazables, verificables y mantenibles.
+> QA y desarrollo de software para convertir operaciones reales en soluciones digitales.
 
-[![Web Personal](https://img.shields.io/badge/Web_Personal-30363d?style=for-the-badge&logo=vercel&logoColor=white)](https://cristian-gutierrez-web.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-cdgutierrez00%40gmail.com-30363d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdgutierrez00@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%40GCrist1an-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GCrist1an)
-
-</div>
+[![Portafolio](https://img.shields.io/badge/Portafolio-30363d?style=for-the-badge&logo=vercel&logoColor=white)](https://cristian-gutierrez-web.vercel.app/) [![Gutierrez Systems](https://img.shields.io/badge/Gutierrez_Systems-30363d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gutierrezsystems.online/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-gutierrez-a303b837b/) [![Email](https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdgutierrez00@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573006782181)
 
 ---
 
 ## Sobre mí
 
-Trabajo en la intersección entre **operaciones** y **tecnología**: identifico necesidades de proceso y las convierto en software, automatización y formas de trabajo más trazables.
+Estudiante de octavo semestre de Ingeniería en Desarrollo de Software (CIAF) con formación en aseguramiento de calidad bajo ISTQB CTFL v4.0. Antes de dedicarme al software coordiné operaciones de servicios para el Municipio de Dosquebradas con equipos de hasta 113 personas, donde automaticé reportes, novedades y control operativo. Hoy combino esa visión operativa con QA y desarrollo para construir soluciones que resuelven problemas reales.
 
-Mi enfoque actual incluye desarrollo de productos internos, automatización de tareas repetitivas, calidad de entrega, documentación técnica y construcción de **Gutierrez Systems** como entorno tecnológico corporativo separado de mi identidad personal.
+📍 Dosquebradas, Risaralda, Colombia · Remoto o presencial en Pereira / Dosquebradas
 
 ---
 
-## Stack tecnológico
+## Habilidades
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
+| Área | Herramientas |
+|---|---|
+| **QA** | Diseño de casos de prueba · Reporte y seguimiento de defectos · BDD con Gherkin · Pruebas de API con Postman / Newman · Pruebas responsive · Seguridad básica (XSS, exposición de credenciales) |
+| **Lenguajes** | JavaScript · TypeScript · Python · SQL |
+| **Desarrollo** | React · Next.js · Node.js · Angular · HTML · CSS |
+| **Bases de datos** | PostgreSQL · MySQL · MongoDB · Supabase |
+| **Herramientas** | Git · GitHub · GitHub Actions · Vercel · Jira · Notion · Scrum |
 
 ---
 
 ## Trabajo seleccionado
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **[QA Portfolio](https://github.com/GCrist1an/qa-portfolio)** — 🟢 Publicado
+  Plan de pruebas, 35 casos de prueba, 7 reportes de bugs reales de un e-commerce en producción, escenarios Gherkin y colección Postman con pruebas automatizadas de API.
+  **Stack:** Postman · Newman · Gherkin · Markdown
+- **[Makeupstore By Andrea](https://andreamakeupcare.shop)** — 🟢 En producción
+  Catálogo interactivo con carrito, notas por producto, cierre de pedido por WhatsApp y panel de administración que publica cambios vía la API de GitHub.
+  **Stack:** JavaScript · Vercel · API de GitHub
+- **GS ContractOps** — 🟡 En desarrollo
+  Plataforma para planear, ejecutar y supervisar contratos con operación en campo.
+- **Aplicación de cierre de nómina** — 🔒 Privado
+  Aplicación privada para asistencia, novedades y revisión de nómina en una empresa de servicios.
+  **Stack:** Next.js · TypeScript · React · Supabase
+- **[Aquality](https://github.com/Parra9510/aquality)** — 🤝 Colaboración externa
+  Colaboración técnica en un proyecto externo de acuicultura. El repositorio no pertenece a Gutierrez Systems.
 
-### GS ContractOps
+> Parte de los proyectos de Gutierrez Systems son privados, por eso la actividad visible puede no reflejar todo el trabajo realizado.
 
-Plataforma de Gutierrez Systems en descubrimiento y diseño para estructurar la **planeación, ejecución, trazabilidad y supervisión de contratos con operación en campo**.
-
-**Estado:** discovery / fundación técnica.
-
-</td>
-<td width="50%" valign="top">
-
-### EMINSER — Cierre de Nómina
-
-Aplicación operativa privada para apoyar flujos mensuales de **asistencia, novedades y revisión de nómina**.
-
-**Stack:** Next.js · TypeScript · React · Supabase
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### GS Document Verification
-
-Producto privado orientado a **verificación documental y generación de dossiers**, con separación entre frontend, backend y controles técnicos de manejo de información.
-
-</td>
-<td width="50%" valign="top">
-
-### Aquality — colaboración externa
-
-Colaboración técnica verificable en un proyecto externo. El repositorio **no pertenece a Gutierrez Systems**.
-
-[Ver Aquality en GitHub](https://github.com/Parra9510/aquality)
-
-</td>
-</tr>
-</table>
-
----
-
-## Actividad en GitHub
-
-<div align="center">
-
-<img src="./profile/streak.svg" alt="Actividad de GitHub" />
-
-</div>
-
-> La actividad visible en el perfil puede no representar todo el trabajo realizado, ya que parte de los proyectos de Gutierrez Systems son privados.
+[![Actividad de GitHub](./profile/streak.svg)](./profile/streak.svg)
 
 ---
 
 ## Principios de ingeniería
 
 - ✅ **Seguridad por defecto.** Secretos fuera del repositorio y exposición mínima de datos sensibles.
-- ✅ **Entrega trazable.** Cambios importantes mediante rama → Pull Request → checks → `main`.
-- ✅ **Evidencia verificable.** No presentar métricas, productos o resultados sin respaldo.
-- ✅ **Software mantenible.** Documentación y estructura suficientes para que otra persona pueda comprender el sistema.
-- ✅ **Problemas reales primero.** Cada sistema debe responder a una necesidad operativa concreta.
+- ✅ **Calidad verificable.** Probar antes de entregar: casos de prueba, evidencia y trazabilidad.
+- ✅ **Entrega trazable.** Rama → Pull Request → checks → `main`.
+- ✅ **Evidencia real.** No presentar métricas, productos ni resultados sin respaldo.
+- ✅ **Problemas reales primero.** Cada sistema responde a una necesidad operativa concreta.
 
 ---
 
 ## Gutierrez Systems
 
-<div align="center">
-
-### Software · Automatización · QA · Operaciones digitales
-
-Desarrollo **Gutierrez Systems** como entorno corporativo para productos, ingeniería, automatización, calidad y conocimiento técnico.
-
-[![Gutierrez Systems](https://img.shields.io/badge/Ver_organización-Gutierrez--Systems-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gutierrez-Systems)
-
-</div>
+Software · QA · Automatización · Operaciones digitales — [www.gutierrezsystems.online](https://www.gutierrezsystems.online/) · [Organización en GitHub](https://github.com/Gutierrez-Systems)
 
 ---
 
-## Contacto
-
-- **GitHub:** [@GCrist1an](https://github.com/GCrist1an)
-- **Correo:** [cdgutierrez00@gmail.com](mailto:cdgutierrez00@gmail.com)
-- **Web personal:** [Cristian Gutierrez](https://cristian-gutierrez-web.vercel.app/)
----
-
-<sub>Este perfil presenta únicamente proyectos, enlaces y afirmaciones respaldados por repositorios o documentación verificable.</sub>
+<sub>Última actualización del perfil: 2026-11-07</sub>
