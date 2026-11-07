@@ -18,6 +18,8 @@
     "github": "https://github.com/GCrist1an",
     "portafolio": "https://cristian-gutierrez-web.vercel.app/",
     "empresa": "https://www.gutierrezsystems.online/"
+    "facebook_empresa": "https://www.facebook.com/GutierrezSystems",
+    "github_empresa": "https://github.com/Gutierrez-Systems"
   },
   "habilidades": {
     "qa": ["Diseño de casos de prueba", "Reporte y seguimiento de defectos", "BDD con Gherkin", "Pruebas de API con Postman / Newman", "Pruebas responsive", "Seguridad básica (XSS, exposición de credenciales)"],
