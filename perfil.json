@@ -8,8 +8,8 @@
     "frase": "QA y desarrollo de software para convertir operaciones reales en soluciones digitales.",
     "ubicacion": "Dosquebradas, Risaralda, Colombia",
     "disponibilidad": "Remoto o presencial en Pereira / Dosquebradas",
-    "sobre_mi": "Estudiante de octavo semestre de Ingeniería en Desarrollo de Software (CIAF) con formación en aseguramiento de calidad bajo ISTQB CTFL v4.0. Antes de dedicarme al software coordiné operaciones de servicios para el Municipio de Dosquebradas con equipos de hasta 113 personas, donde automaticé reportes, novedades y control operativo. Hoy combino esa visión operativa con QA y desarrollo para construir soluciones que resuelven problemas reales."
-    "enfoque": ["Personas", "Procesos", "Tecnología", "Evidencia"],
+    "sobre_mi": "Estudiante de octavo semestre de Ingeniería en Desarrollo de Software (CIAF) con formación en aseguramiento de calidad bajo ISTQB CTFL v4.0. Antes de dedicarme al software coordiné operaciones de servicios para el Municipio de Dosquebradas con equipos de hasta 113 personas, donde automaticé reportes, novedades y control operativo. Hoy combino esa visión operativa con QA y desarrollo para construir soluciones que resuelven problemas reales.",
+    "enfoque": ["Personas", "Procesos", "Tecnología", "Evidencia"]
   },
   "contacto": {
     "correo": "cdgutierrez00@gmail.com",
@@ -17,7 +17,7 @@
     "linkedin": "https://www.linkedin.com/in/cristian-gutierrez-a303b837b/",
     "github": "https://github.com/GCrist1an",
     "portafolio": "https://cristian-gutierrez-web.vercel.app/",
-    "empresa": "https://www.gutierrezsystems.online/"
+    "empresa": "https://www.gutierrezsystems.online/",
     "facebook_empresa": "https://www.facebook.com/GutierrezSystems",
     "github_empresa": "https://github.com/Gutierrez-Systems"
   },
