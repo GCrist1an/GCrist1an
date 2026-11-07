@@ -21,7 +21,7 @@
   "habilidades": {
     "qa": ["Diseño de casos de prueba", "Reporte y seguimiento de defectos", "BDD con Gherkin", "Pruebas de API con Postman / Newman", "Pruebas responsive", "Seguridad básica (XSS, exposición de credenciales)"],
     "lenguajes": ["JavaScript", "TypeScript", "Python", "SQL"],
-    "desarrollo": ["React", "Next.js", "Node.js", "Angular", "HTML", "CSS"],
+    "desarrollo": ["React", "Next.js", "Node.js", "Angular", "HTML", "CSS" , "FastAPI", "Vite"],
     "bases_de_datos": ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
     "herramientas": ["Git", "GitHub", "GitHub Actions", "Vercel", "Jira", "Notion", "Scrum"]
   },
