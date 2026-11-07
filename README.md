@@ -24,7 +24,7 @@ Estudiante de octavo semestre de Ingeniería en Desarrollo de Software (CIAF) co
 |---|---|
 | **QA** | Diseño de casos de prueba · Reporte y seguimiento de defectos · BDD con Gherkin · Pruebas de API con Postman / Newman · Pruebas responsive · Seguridad básica (XSS, exposición de credenciales) |
 | **Lenguajes** | JavaScript · TypeScript · Python · SQL |
-| **Desarrollo** | React · Next.js · Node.js · Angular · HTML · CSS |
+| **Desarrollo** | React · Next.js · Node.js · Angular · HTML · CSS · FastAPI · Vite |
 | **Bases de datos** | PostgreSQL · MySQL · MongoDB · Supabase |
 | **Herramientas** | Git · GitHub · GitHub Actions · Vercel · Jira · Notion · Scrum |
 
