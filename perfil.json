@@ -25,6 +25,12 @@
     "bases_de_datos": ["PostgreSQL", "MySQL", "MongoDB", "Supabase"],
     "herramientas": ["Git", "GitHub", "GitHub Actions", "Vercel", "Jira", "Notion", "Scrum"]
   },
+    "capacidades": [
+    { "nombre": "Software", "descripcion": "Construyo soluciones mantenibles alrededor de procesos reales." },
+    { "nombre": "Automatización", "descripcion": "Reduzco trabajo repetitivo con flujos, reglas y evidencia." },
+    { "nombre": "Operaciones", "descripcion": "Conecto equipos, actividades, incidencias y control digital." },
+    { "nombre": "Calidad", "descripcion": "Integro validación, CI, documentación y trazabilidad." }
+  ],
   "servicios": [
     { "nombre": "Catálogos web con pedidos por WhatsApp", "descripcion": "Tu catálogo en línea con carrito y pedidos organizados que llegan directo a tu WhatsApp." },
     { "nombre": "Sistemas de gestión para negocios", "descripcion": "Software a la medida para organizar la operación diaria, por ejemplo de un gimnasio." },
