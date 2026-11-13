@@ -2,7 +2,7 @@
 
 # Cristian Gutiérrez
 
-### QA Junior · Desarrollador de Software · Fundador de Gutierrez Systems
+### Coordinador · Fundador de Gutierrez Systems
 
 > QA y desarrollo de software para convertir operaciones reales en soluciones digitales.
 
